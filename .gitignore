@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (do not commit Kaggle raw data)
+data/raw/
+data/processed/
+
+# Models/artifacts
+models/
+artifacts/
+runs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
