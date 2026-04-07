@@ -1,0 +1,7 @@
+Model,Test_AUROC,Test_AUPRC
+Logistic Regression,0.7784,0.0655
+XGBoost,0.8035,0.0845
+GRU Direct,0.6157,0.0259
+GRU Forecast + LogReg,0.6479,0.013
+GRU Forecast + XGBoost,0.6394,0.0122
+LSTM Direct,0.735773,0.051444
